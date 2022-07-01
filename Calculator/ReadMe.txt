@@ -1,2 +1,2 @@
 
-I have used tkinter python module for the User Graphic User Interface. 
+I have used tkinter python module for the Graphic User Interface. 
